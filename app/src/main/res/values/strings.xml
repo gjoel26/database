@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">database</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone Number</string>
+    <string name="database">Save values Database</string>
+    <string name="btn_save">Save</string>
+    <string name="txtbasedatos">Guardar Base De Datos</string>
+</resources>
